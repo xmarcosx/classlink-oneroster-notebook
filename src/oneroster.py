@@ -1,3 +1,5 @@
+# sourced from https://github.com/classlinkinc/request-libraries/tree/master/classlink-oneroster-oauth1/python
+
 import collections
 import time
 from random import randint
